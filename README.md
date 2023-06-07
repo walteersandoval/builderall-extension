@@ -1,4 +1,6 @@
 # Documentación del Repositorio de Extensión para Builderall
+![Builderall](/icon.png)
+
 
 Esta documentación proporciona información sobre el repositorio de la extensión para Google Chrome y Microsoft Edge, que permite un acceso rápido al panel administrativo de la plataforma de marketing digital Builderall. El código contiene HTML, CSS y JavaScript y está sujeto a la licencia MIT.
 
